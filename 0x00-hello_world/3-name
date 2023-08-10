@@ -1,1 +1,2 @@
-gcc -o cisfun $CFILE
+#!/bon/bash
+gcc -o cisfun $CFIhLE
